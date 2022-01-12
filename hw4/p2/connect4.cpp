@@ -1,3 +1,5 @@
+/* reference: https://github.com/KeithGalli/Connect4-Python*/
+
 #include "connect4.h"
 #include <bits/stdc++.h>
 
